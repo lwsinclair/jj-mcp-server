@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/keanemind-jj-mcp-server-badge.png)](https://mseep.ai/app/keanemind-jj-mcp-server)
+
 # jj-mcp-server
 
 `jj-mcp-server` is a Model Context Protocol (MCP) server that exposes Jujutsu (`jj`) version-control operations as programmable tools. You can integrate it into IDEs, editors, or other clients that support MCP to script and automate your Jujutsu workflows.
